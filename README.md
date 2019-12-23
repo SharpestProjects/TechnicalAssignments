@@ -15,7 +15,7 @@ After you have read this document, please provide us with your feedback **[here]
 
 ## Submissions
 
-- Create a fork of this repository. Your fork will be private, however those added to this repository will be able to view it. Try not to look at other's forks: be authentic to yourself! -- your interpretation is unique and is what you will be evaluated on in a real world scenario. If you're having an issue or would like some input, bring it up in a discussion, the conversation will be much more helpful than simply reading other mentee's code alone.
+- Create a fork of this repository. Try not to look at other's forks: be authentic to yourself! -- your interpretation is unique and is what you will be evaluated on in a real world scenario. If you're having an issue or would like some input, bring it up in a discussion, the conversation will be much more helpful than simply reading other mentee's code alone.
 
 - Organize your fork. -- Make sure each submission is self-contained in its own sub-directory so it's easier to review.
 
