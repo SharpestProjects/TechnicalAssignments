@@ -21,7 +21,7 @@ After you have read this document, please provide us with your feedback **[here]
 
 - Commit often. Since this isn't a "real world project", your commits don't have to be so much as formal descriptions of code modification, but in this environment try to describe your thought process. Your fork will act as a journal to see how your solution evolved and what you were thinking. Some popular challenge tools like [HackerRank](https://www.hackerrank.com/) will provide your evaluator with a detailed history of the code evolution. That means deletions, additions, long pauses, page leaves (assumed external resource usage) etc. So having a 3-dimensional view of your thought process will allow you to see your mistakes, triumphs, aha-moments, and overall progress. This also provides your mentors with the tools to give more in-depth feedback.
 
-- When you believe you have done an assignment to the best of your abilities, let us know! Make sure to send an email to `dyllanmccreary@gmail.com` with your fork link & which assignment you are submitting. Ideally provide us with some parts you struggled with, were proud of, and any questions/comments you'd like for us to address. 
+- When you believe you have done an assignment to the best of your abilities, let us know! Make sure to send an email to your mentor and/or Edouard, Jeremie, or Russel with your fork link & which assignment you are submitting. Ideally provide us with some parts you struggled with, were proud of, and any questions/comments you'd like for us to address. 
 
 ## Assignment Routes
 
